@@ -1,0 +1,114 @@
+event_id,event_date,city,venue,event_type,ticket_category,capacity,tickets_sold,ticket_price_sar,discount_pct,marketing_channel,marketing_spend_sar,weather,customer_rating,complaints,reported_revenue_sar
+SE-1001,2026-01-19,Makkah,Al Awali Center,Cultural Night,Standard,125,74,110,0.0,Instagram,2000,Clear,4.1,2,8140.0
+SE-1002,2026-01-17,Riyadh,Riyadh Front,Food Festival,Standard,297,267,110,0.0,Instagram,7200,Dusty,4.4,1,29370.0
+SE-1003,2026-01-18,Riyadh,King Fahd Cultural Center,Comedy Night,Standard,228,148,90,0.0,TikTok,7200,Hot,4.0,1,13320.0
+SE-1004,2026-01-29,Khobar,Ithra Hall,Food Festival,Standard,99,179,110,20.0,Influencer,1500,Clear,4.2,2,1870.0
+SE-1005,2026-01-10,Riyadh,Riyadh Front,Family Show,Premium,83,54,220,0.0,TikTok,5400,Clear,3.8,2,11880.0
+SE-1006,2026-02-17,Jeddah,Jeddah Superdome,Comedy Night,Premium,51,54,150,10.0,Snapchat,1440,Hot,4.5,2,7290.0
+SE-1007,2026-02-17,JEDDAH,Jeddah Superdome,Cultural Night,Standard,287,152,45,0.0,TikTok,960,Hot,4.0,2,6840.0
+SE-1008,2026-02-15,Riyadh,Riyadh Front,Cultural Night,Standard,440,256,90,0.0,Snapchat,1440,Dusty,3.9,3,23040.0
+SE-1009,2026-01-19,Dammam,Dammam Corniche Stage,Food Festival,Standard,117,123,45,15.0,Instagram,6000,Clear,4.7,7,4704.75
+SE-1010,2026-01-29,Riyadh,Riyadh Front,E-sports,Standard,334,235,90,10.0,Instagram,3600,Dusty,3.5,3,19035.0
+SE-1011,2026-02-15,Riyadh,Riyadh Front,Football Fan Zone,Standard,228,164,90,0.0,Walk-in,960,Cloudy,4.2,1,14760.0
+SE-1012,2026-01-11,Jeddah,Jeddah Superdome,Football Fan Zone,Standard,215,209,110,10.0,TikTok,1440,Dusty,4.4,4,20691.0
+SE-1013,2026-01-06,Dammam,Dhahran Expo,Food Festival,Standard,110,84,75,0.0,Influencer,1200,Cloudy,4.5,1,6300.0
+SE-1014,2026-02-22,riyadh,King Fahd Cultural Center,Football Fan Zone,Standard,103,75,90,25.0,,1440,Hot,3.9,4,5062.5
+SE-1015,2026-02-18,Makkah,Al Awali Center,Food Festival,Premium,78,63,220,,TikTok,4500,Hot,4.5,3,10395.0
+SE-1016,26/01/2026,Dammam,Dhahran Expo,Family Show,Standard,80,48,60,10.0,Instagram,800,Dusty,3.9,1,2592.0
+SE-1017,2026-01-09,Riyadh,Boulevard Hall,Concert,Premium,64,45,220,0.0,Walk-in,1440,Cloudy,4.5,2,9900.0
+SE-1018,2026-02-25,Dammam,Dammam Corniche Stage,Family Show,Premium,139,130,120,10.0,Search Ads,1500,Hot,4.1,1,14040.0
+SE-1019,2026-02-15,Khobar,Khobar Corniche Theater,Cultural Night,Premium,38,16,180,15.0,Snapchat,800,Clear,3.9,5,2448.0
+SE-1020,2026-02-03,Dammam,Dhahran Expo,E-sports,Standard,159,119,45,5.0,Influencer,6000,Clear,,3,5087.25
+SE-1021,2026-02-28,Makkah,Al Awali Center,Concert,VIP,31,20,450,5.0,Search Ads,6000,Cloudy,3.7,2,8550.0
+SE-1022,2026-02-24,Riyadh,Boulevard Hall,E-sports,Standard,424,173,110,10.0,Snapchat,2400,Clear,4.1,1,17127.0
+SE-1023,2026-01-08,Riyadh,Boulevard Hall,Food Festival,Premium,103,96,250,5.0,Influencer,7200,Clear,4.2,3,22800.0
+SE-1024,2026-02-12,Abha,Abha Summer Theater,Football Fan Zone,Standard,102,73,60,5.0,Snapchat,3000,Hot,3.7,1,3536.85
+SE-1025,2026-02-10,Riyadh,Boulevard Hall,E-sports,Premium,156,141,150,10.0,Snapchat,1800,Clear,4.2,1,19035.0
+SE-1026,2026-02-22,Riyadh,Riyadh Front,Comedy Night,Standard,82,69,110,25.0,Instagram,960,Hot,4.2,1,5692.5
+SE-1027,2026-01-20,Dammam,Dhahran Expo,Comedy Night,Premium,117,80,220,20.0,TikTok,4500,Hot,4.2,2,14080.0
+SE-1028,2026-01-24,Abha,Abha Summer Theater,Cultural Night,Premium,58,39,150,0.0,Walk-in,800,Hot,,3,5850.0
+SE-1029,2026-01-18,Jeddah,Jeddah Superdome,Family Show,Premium,97,56,SAR 180,20.0,Instagram,7200,Clear,,0,8064.0
+SE-1030,2026-02-23,Jeddah,Red Sea Arena,Concert,Standard,121,127,75,0.0,Influencer,2400,Dusty,4.4,2,9525.0
+SE-1031,2026-02-18,Dammam,Dhahran Expo,Concert,VIP,34,21,350,10.0,Search Ads,1200,Clear,4.3,3,6615.0
+SE-1032,2026-01-20,Jeddah,Jeddah Waterfront,Comedy Night,Standard,93,53,110,20.0,Influencer,2400,Dusty,3.8,6,4664.0
+SE-1033,2026-02-25,Abha,Abha Summer Theater,Football Fan Zone,Standard,130,86,45,0.0,Search Ads,1500,Rainy,3.9,5,3870.0
+SE-1034,2026-02-18,Khobar,Khobar Corniche Theater,Comedy Night,Standard,93,70,45,20.0,Snapchat,1200,Rainy,4.4,1,2520.0
+SE-1035,2026-01-19,Dammam,Dammam Corniche Stage,Football Fan Zone,Premium,55,44,150,5.0,Instagram,1500,Cloudy,4.5,0,5329.5
+SE-1036,2026-02-27,Jeddah,Jeddah Superdome,Food Festival,Standard,295,250,45,,Snapchat,1800,Hot,4.0,0,9000.0
+SE-1037,2026-01-27, Abha ,Abha Summer Theater,Concert,Standard,254,199,110,0.0,Snapchat,3000,Clear,3.9,2,21890.0
+SE-1038,2026-02-08,Madinah,Quba Cultural Hall,Food Festival,VIP,36,15,250,25.0,Influencer,1500,Clear,4.3,3,2812.5
+SE-1039,2026-01-31,Khobar,Ithra Hall,Food Festival,Standard,252,219,75,10.0,Search Ads,1200,Hot,4.8,1,14782.5
+SE-1040,2026-01-24,JEDDAH,Jeddah Superdome,Family Show,Standard,329,197,45,5.0,Search Ads,1440,Dusty,3.7,6,9432.36
+SE-1041,2026-02-17,Makkah,Makkah Exhibition Hall,E-sports,Standard,143,57,60,10.0,Influencer,1500,Hot,4.0,2,3078.0
+SE-1042,2026-01-20,Makkah,Al Awali Center,Football Fan Zone,VIP,44,22,300,0.0,Snapchat,800,Cloudy,4.2,4,6600.0
+SE-1043,14/02/2026,Makkah,Al Awali Center,E-sports,Standard,152,96,90,5.0,Snapchat,1200,Hot,4.3,4,8208.0
+SE-1044,2026-01-16,Riyadh,Boulevard Hall,Football Fan Zone,Standard,392,331,60,20.0,Search Ads,960,Clear,4.5,1,13504.8
+SE-1045,2026-02-13,Dammam,Dammam Corniche Stage,Football Fan Zone,Premium,187,149,250,5.0,,1200,Rainy,4.2,2,30079.38
+SE-1046,23/02/2026, Dammam ,Dhahran Expo,Football Fan Zone,Standard,472,450,75,5.0,TikTok,4500,Clear,4.3,4,32062.5
+SE-1047,2026-01-19,Jeddah,Jeddah Superdome,Concert,Standard,344,343,60,0.0,TikTok,2400,Hot,4.5,9,20580.0
+SE-1048,2026-02-23,Jeddah,Jeddah Waterfront,Football Fan Zone,Standard,86,63,110,5.0,,960,Clear,4.1,1,6583.5
+SE-1049,2026-02-08,Jeddah,Red Sea Arena,Food Festival,Premium,71,75,180,5.0,Search Ads,960,Clear,3.8,2,12825.0
+SE-1050,2026-02-03,Makkah,Makkah Exhibition Hall,Cultural Night,Standard,134,46,110,0.0,Influencer,2000,Hot,3.9,2,5060.0
+SE-1051,2026-02-03,Riyadh,Riyadh Front,E-sports,Standard,100,75,90,5.0,TikTok,2400,Clear,4.3,0,6412.5
+SE-1052,2026-01-31,Khobar,Ithra Hall,Football Fan Zone,VIP,68,71,450,0.0,Instagram,3000,Cloudy,4.9,6,31950.0
+SE-1053,15/02/2026,Jeddah,Jeddah Superdome,Concert,Premium,43,33,150,0.0,Influencer,960,Clear,4.2,0,4950.0
+SE-1054,2026-01-18,Riyadh,Riyadh Front,Concert,Standard,482,397,75,0.0,Walk-in,3600,Dusty,4.5,1,29775.0
+SE-1055,2026-01-06, Khobar ,Khobar Corniche Theater,Comedy Night,Standard,199,139,SAR 90,5.0,Snapchat,4500,Clear,3.7,2,11884.5
+SE-1056,2026-01-24,Madinah,Quba Cultural Hall,Concert,Premium,55,58,250,15.0,Influencer,1500,Hot,4.6,4,12325.0
+SE-1057,2026-02-28,Jeddah,Jeddah Superdome,Cultural Night,Standard,357,212,45,5.0,Walk-in,1800,Cloudy,4.6,0,9063.0
+SE-1058,2026-02-07,Dammam,Dhahran Expo,E-sports,Standard,201,36,110,15.0,Search Ads,2000,Rainy,3.5,2,3366.0
+SE-1059,2026-01-10,Makkah,Makkah Exhibition Hall,Football Fan Zone,Standard,217,209,60,15.0,Influencer,3000,Hot,4.7,1,10659.0
+SE-1060,2026-02-05,Jeddah,Red Sea Arena,Football Fan Zone,Standard,136,120,75,5.0,Walk-in,3600,Cloudy,4.9,3,8550.0
+SE-1061,2026-01-31,Dammam,Dhahran Expo,Concert,Standard,462,351,60,15.0,Walk-in,4500,Hot,4.2,3,17901.0
+SE-1062,2026-02-18,Khobar,Khobar Corniche Theater,Comedy Night,Standard,134,71,110,5.0,Influencer,3000,Clear,,5,7419.5
+SE-1063,2026-01-22,Abha,Aseer Art Hub,Comedy Night,Premium,86,43,120,15.0,Instagram,1500,Dusty,3.9,2,4386.0
+SE-1064,2026-02-04,Abha,Abha Summer Theater,Family Show,Standard,208,110,110,10.0,Snapchat,800,Clear,4.3,0,10890.0
+SE-1065,2026-01-13,Jeddah,Red Sea Arena,Concert,Premium,77,81,120,10.0,Snapchat,5400,Hot,,6,8748.0
+SE-1066,2026-01-23,Madinah,Quba Cultural Hall,Football Fan Zone,Standard,452,296,75,0.0,TikTok,800,Cloudy,4.2,2,22200.0
+SE-1067,2026-02-10,Dammam,Dhahran Expo,E-sports,Standard,69,70,110,25.0,Snapchat,800,Clear,4.2,5,5775.0
+SE-1068,2026-02-02,Madinah,Quba Cultural Hall,Football Fan Zone,Standard,426,263,110,25.0,Influencer,1500,Hot,4.4,0,21697.5
+SE-1069,2026-01-18,Makkah,Al Awali Center,Football Fan Zone,Standard,204,151,60,0.0,Instagram,3000,Clear,4.2,4,9060.0
+SE-1070,2026-01-07,Jeddah,Jeddah Superdome,Food Festival,Standard,133,135,75,15.0,Instagram,2400,Dusty,3.8,5,8606.25
+SE-1071,2026-01-19,Abha,Abha Summer Theater,E-sports,Standard,131,42,60,0.0,TikTok,1200,Hot,4.5,2,2520.0
+SE-1072,18/02/2026,Khobar,Ithra Hall,E-sports,Standard,206,-12,SAR 75,10.0,,2000,Clear,4.1,1,11542.5
+SE-1073,2026-01-21,Riyadh,King Fahd Cultural Center,Cultural Night,Standard,68,49,110,10.0,Walk-in,960,Rainy,3.9,2,4851.0
+SE-1074,2026-02-02,Dammam,Dhahran Expo,E-sports,Standard,175,164,110,,Search Ads,6000,Cloudy,,4,17138.0
+SE-1075,2026-01-11,Dammam,Dammam Corniche Stage,Comedy Night,Standard,110,75,90,5.0,Influencer,2000,Clear,4.6,2,6412.5
+SE-1076,2026-02-23,Riyadh,King Fahd Cultural Center,Comedy Night,Standard,361,253,45,10.0,Search Ads,3600,Hot,4.2,1,10246.5
+SE-1077,2026-02-14,riyadh,King Fahd Cultural Center,Food Festival,Premium,254,267,150,0.0,TikTok,1440,Hot,4.6,5,40050.0
+SE-1078,2026-02-12,Madinah,Quba Cultural Hall,Concert,VIP,46,32,350,10.0,Search Ads,3000,Clear,5.8,1,10080.0
+SE-1079,2026-02-15,Abha,Abha Summer Theater,E-sports,VIP,33,26,350,10%,Search Ads,1500,Rainy,4.1,5,8190.0
+SE-1080,2026-01-29,Abha,Abha Summer Theater,E-sports,Standard,161,108,110,15%,Instagram,1200,Clear,4.4,2,10098.0
+SE-1081,2026-02-06,Khobar,Ithra Hall,Comedy Night,VIP,68,18,350,15.0,Influencer,6000,Hot,3.8,1,5355.0
+SE-1082,2026-01-27,Makkah,Al Awali Center,E-sports,Standard,264,189,110,5.0,Snapchat,1500,Cloudy,4.7,3,19750.5
+SE-1083,2026-01-31,Riyadh,King Fahd Cultural Center,Family Show,Premium,35,20,220,15%,Search Ads,7200,Hot,4.6,2,3740.0
+SE-1084,2026-01-13,Makkah,Al Awali Center,E-sports,VIP,93,60,450,0.0,Instagram,2000,Dusty,3.9,4,27000.0
+SE-1085,2026-02-24,Jeddah,Jeddah Superdome,Family Show,Standard,185,137,90,10.0,TikTok,7200,Rainy,,-1,11097.0
+SE-1086,22/02/2026,Khobar,Ithra Hall,Comedy Night,Standard,507,350,45,10.0,Walk-in,1200,Dusty,4.1,7,14175.0
+SE-1087,2026-01-11,Jeddah,Jeddah Waterfront,Cultural Night,Standard,95,37,75,20%,TikTok,960,Rainy,4.0,3,2220.0
+SE-1088,2026-02-07,Jeddah,Red Sea Arena,E-sports,Standard,331,290,60,0.0,Influencer,960,Cloudy,4.8,6,17400.0
+SE-1089,2026-01-14,Makkah,Al Awali Center,E-sports,VIP,39,30,350,5.0,Instagram,-500,Cloudy,4.6,2,9975.0
+SE-1090,2026-01-09,Dammam,Dammam Corniche Stage,Cultural Night,Standard,517,129,110,5.0,Walk-in,2000,Clear,4.4,3,16850.62
+SE-1091,2026-01-11,Khobar,Khobar Corniche Theater,E-sports,Premium,67,45,180,10.0,TikTok,4500,Clear,4.5,3,7290.0
+SE-1092,2026-03-01,Khobar,Ithra Hall,Comedy Night,Standard,87,56,90,20.0,Snapchat,1500,Hot,4.4,1,4032.0
+SE-1093,2026-02-17,JEDDAH,Jeddah Superdome,Family Show,Standard,121,92,45,5.0,Instagram,2400,Hot,4.3,2,3933.0
+SE-1094,2026-01-31,Madinah,Quba Cultural Hall,Comedy Night,Standard,106,64,110,20.0,Influencer,1500,Hot,3.9,1,5632.0
+SE-1095,2026-02-04,Jeddah,Jeddah Waterfront,Comedy Night,VIP,65,45,350,15.0,Instagram,2400,Clear,4.4,1,13387.5
+SE-1096,2026-01-28,Abha,Aseer Art Hub,Football Fan Zone,Premium,55,35,120,0.0,Search Ads,800,Hot,3.9,1,4200.0
+SE-1097,14/02/2026,Madinah,Madinah Expo,Food Festival,Standard,228,133,60,5.0,Influencer,3000,Clear,3.8,1,7581.0
+SE-1098,2026-02-18,Makkah,Al Awali Center,Cultural Night,Premium,104,89,120,,TikTok,800,Cloudy,4.3,0,13350.0
+SE-1099,2026-02-03,Riyadh,Boulevard Hall,Food Festival,Standard,273,257,SAR 110,5.0,Walk-in,5400,Clear,4.6,3,26856.5
+SE-1100,2026-01-31,Jeddah,Jeddah Waterfront,Football Fan Zone,Standard,166,170,75,0.0,Snapchat,2400,Rainy,4.0,4,12750.0
+SE-1101,2026-02-15,Riyadh,Riyadh Front,Comedy Night,Standard,224,108,75,0.0,Search Ads,960,Clear,4.4,2,8100.0
+SE-1102,2026-01-08,Riyadh,Riyadh Front,Food Festival,VIP,60,60,300,15.0,Instagram,1440,Rainy,3.9,5,15300.0
+SE-1103,2026-01-26,Dammam,Dhahran Expo,Football Fan Zone,Premium,66,41,250,0.0,Snapchat,6000,Cloudy,3.9,1,10250.0
+SE-1104,2026-01-06,Dammam,Dhahran Expo,Concert,Premium,45,27,SAR 150,10.0,Snapchat,800,Clear,3.9,1,3645.0
+SE-1105,2026-01-09,Riyadh,King Fahd Cultural Center,Food Festival,Standard,447,396,75,10%,Search Ads,960,Hot,4.5,3,26730.0
+SE-1106,2026-03-01,Abha,Abha Summer Theater,Cultural Night,Premium,95,91,120,0.0,Search Ads,2000,Hot,4.6,3,10920.0
+SE-1107,2026-01-10,Riyadh,Riyadh Front,E-sports,Standard,0,281,45,0.0,Walk-in,3600,Hot,4.0,5,12645.0
+SE-1108,2026-02-03,Madinah,Madinah Expo,Food Festival,Standard,284,148,45,20.0,Influencer,4500,Dusty,3.7,1,5328.0
+SE-1109,2026-02-26,Riyadh,King Fahd Cultural Center,Family Show,Standard,440,290,SAR 45,5.0,,1800,Clear,,1,12397.5
+SE-1110,2026-01-10,Abha,Aseer Art Hub,Concert,Standard,95,29,75,15.0,Instagram,3000,Hot,4.2,1,1848.75
+SE-1106,2026-03-01,Abha,Abha Summer Theater,Cultural Night,Premium,95,91,120,0.0,Search Ads,2000,Hot,4.6,3,10920.0
+SE-1103,2026-01-26,Dammam,Dhahran Expo,Football Fan Zone,Premium,66,41,250,0.0,Snapchat,6000,Cloudy,3.9,1,10250.0
+SE-1007,2026-02-17,JEDDAH,Jeddah Superdome,Cultural Night,Standard,287,152,45,0.0,TikTok,960,Hot,4.0,2,6840.0
